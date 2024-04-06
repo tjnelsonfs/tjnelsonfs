@@ -19,4 +19,7 @@ Java
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#106](https://github.com/FamilySearch/gedcomx-java/pull/106) in [FamilySearch/gedcomx-java](https://github.com/FamilySearch/gedcomx-java)
+2. 💪 Opened PR [#106](https://github.com/FamilySearch/gedcomx-java/pull/106) in [FamilySearch/gedcomx-java](https://github.com/FamilySearch/gedcomx-java)
+3. 💪 Opened PR [#105](https://github.com/FamilySearch/gedcomx-java/pull/105) in [FamilySearch/gedcomx-java](https://github.com/FamilySearch/gedcomx-java)
 <!--END_SECTION:activity-->
