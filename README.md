@@ -1,6 +1,17 @@
-### Hi there 👋 I'm Travis Nelson
+## Travis Nelson
 
-**tjnelsonfs/tjnelsonfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋
+
+- 👨 I'm a backend software developer (Java) working to become a full stack developer (React).
+- 🏫 I graduated from Utah State University with a Bachelor's degree in Business Information Systems, 2003.
+- 👨🏼‍💻 I love anything tech related.
+
+### Software Engineering
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 Here are some ideas to get you started:
 
